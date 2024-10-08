@@ -21,7 +21,7 @@ nav{
     margin-right: 50px;
 }
 nav img{
-  margin-left: 50px;
+  margin-right: 350px;
 }
 .content{
     position: relative;
@@ -53,7 +53,7 @@ nav img{
 footer{
     margin-top: 4%;
     background-color: black;
-    height: 14vh;
+    height: 17vh;
 }
 footer h4{
     color: #fff;
@@ -62,7 +62,7 @@ footer p{
     color: #fff;
 }
 #copyright{
-    padding: 2% 0% 0% 7%;
+    padding: 3% 0% 0% 7%;
 }
 .footer-last{
     display: flex;
@@ -105,7 +105,7 @@ footer p{
     top: 79px;
    }
    footer{
-    height: 17vh;
+    height: 24vh;
     margin-top: -3%;
     text-align: center;
    }
@@ -165,6 +165,9 @@ footer p{
 nav{
     justify-content: flex-start;
     
+}
+nav img{
+    margin: auto;
 }
    #check:checked~.header-content{
     display: block;
