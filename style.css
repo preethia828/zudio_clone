@@ -186,7 +186,8 @@ nav img{
     display: inline !important;
     position: absolute;
     z-index: 2;
-    margin: -5% 0% 0% 20%;
+    margin: -7% 0% 0% 86%;
+    color: #000;
     
    }
    .menu{
